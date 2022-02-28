@@ -16,5 +16,7 @@ To do this I have:
 - Created a live page for the repository where the site can be hosted
 - Added screenshots of the live site to the README.md file
 
+Link to live site: https://eikohler.github.io/challenge-1-horiseon-site/
+
 ![Top of Page](screenshots/top_of_page.JPG)
 ![Bottom of Page](screenshots/bottom_of_page.JPG)
