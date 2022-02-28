@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-In this challenge we were tasked to refactor the index.html and style.css files so that the code met accessibility requirements.__
+In this challenge we were tasked to refactor the index.html and style.css files so that the code met accessibility requirements.
 To do this I have:
 - Cloned the initial repository onto my local computer
 - Replaced the multiple div element tags that were in the index.html file with semantic tags.
@@ -12,5 +12,8 @@ To do this I have:
 - Added alt tag descriptions to all images
 - Commited my changes to git with descriptions of what has changed
 - Created my own repository for this challenge and pushed my changes to the repository
-- Reordered the files in the repository where the index.html file and assets folder are outside of the Develop folder -> deleted the Develop folder
+- Reordered the files in the repository where the index.html file and assets folder are outside of the Develop folder
 - Created a live page for the repository where the site can be hosted
+- Added screenshots of the live site to the README.md file
+
+![Top of Page](https://github.com/[eikohler]/[challenge-1-horiseon-site]/[main]/screenshots/top_of_page.JPG?raw=true)
