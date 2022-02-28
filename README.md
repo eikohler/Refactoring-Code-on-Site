@@ -16,5 +16,5 @@ To do this I have:
 - Created a live page for the repository where the site can be hosted
 - Added screenshots of the live site to the README.md file
 
-![Top of Page](screenshots/top_of_page.jpg)
-![Bottom of Page](screenshots/bottom_of_page.jpg)
+![Top of Page](screenshots/top_of_page.JPG)
+![Bottom of Page](screenshots/bottom_of_page.JPG)
