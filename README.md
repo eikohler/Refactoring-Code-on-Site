@@ -16,4 +16,4 @@ To do this I have:
 - Created a live page for the repository where the site can be hosted
 - Added screenshots of the live site to the README.md file
 
-![Top of Page](https://github.com/[eikohler]/[challenge-1-horiseon-site]/[main]/screenshots/top_of_page.JPG?raw=true)
+![Top of Page](https://github.com/eikohler/challenge-1-horiseon-site/main/screenshots/top_of_page.jpg?raw=true)
