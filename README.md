@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactoring
 In this challenge we were tasked to refactor the index.html and style.css files so that the code met accessibility requirements.
 To do this I have:
 - Cloned the initial repository onto my local computer
